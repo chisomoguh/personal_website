@@ -1,0 +1,32 @@
+[
+  {
+    "endTime" : "2021-07-26 18:27",
+    "artistName" : "Red Velvet",
+    "trackName" : "Dumb Dumb",
+    "msPlayed" : 202543
+  },
+  {
+    "endTime" : "2021-07-26 18:28",
+    "artistName" : "j-hope",
+    "trackName" : "Daydream (백일몽)",
+    "msPlayed" : 5665
+  },
+  {
+    "endTime" : "2021-07-26 18:28",
+    "artistName" : "(G)I-DLE",
+    "trackName" : "HANN (Alone)",
+    "msPlayed" : 5977
+  },
+  {
+    "endTime" : "2021-07-26 18:32",
+    "artistName" : "BTS",
+    "trackName" : "Let Me Know",
+    "msPlayed" : 254973
+  },
+  {
+    "endTime" : "2021-07-26 18:49",
+    "artistName" : "BLACKPINK",
+    "trackName" : "Pretty Savage",
+    "msPlayed" : 133607
+  }
+]
